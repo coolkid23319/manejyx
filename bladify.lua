@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://paste.gg/p/anonymous/9ca676f3f8714921910562e4e03d9f30/files/45f21bc4d6dc470d9c860abede6db767/raw'))()
+loadstring(game:HttpGet('https://paste.gg/p/anonymous/a3df67bcf191405e8004bf4498776eae/files/f343488e55d04b2fb612cac6504f9d3c/raw'))()
