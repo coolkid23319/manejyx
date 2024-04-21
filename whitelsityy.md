@@ -2,6 +2,7 @@
 
 local WhitelistedUsernames = {
     ["Dragonblox836"] = true,
+    ["torsotapper"] = true,
     ["widebodymhki"] = true,
     ["SoftX_ff"] = true,
     ["Dragonblox836"] = true
