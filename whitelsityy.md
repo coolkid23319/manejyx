@@ -15,5 +15,5 @@ end
 if isWhitelisted(Player) then
     loadstring(game:HttpGet("https://paste.gg/p/anonymous/ec746110a98147efaefe0dd955e38264/files/65275454bab040e7a396cb4f19ca31f9/raw"))()
 else
-    game.Players.LocalPlayer:Kick("BlackListed - Not Whitelisted FN 🤓.")
+    game.Players.LocalPlayer:Kick("BlackListed - Restless.dreams DOESNT fwu😂.")
 end
