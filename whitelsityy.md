@@ -2,6 +2,7 @@
 
 local WhitelistedUsernames = {
     ["Dragonblox836"] = true,
+    ["widebodymhk"] = true
 }
 
 local Player = game.Players.LocalPlayer
