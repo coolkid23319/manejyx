@@ -1,10 +1,10 @@
--- gr1u updated whitelist
+-- @owo updated whitelist
 
 local WhitelistedUsernames = {
-    ["Dragonblox836"] = true,
+    ["27k_gaming"] = true,
     ["torsotapper"] = true,
-    ["widebodymhki"] = true,
-    ["SoftX_ff"] = true,
+    ["twinthedev"] = true,
+    ["cayyhaunt"] = true,
     ["Dragonblox836"] = true
     
 }
@@ -19,5 +19,5 @@ end
 if isWhitelisted(Player) then
     loadstring(game:HttpGet("https://paste.gg/p/anonymous/ec746110a98147efaefe0dd955e38264/files/65275454bab040e7a396cb4f19ca31f9/raw"))()
 else
-    game.Players.LocalPlayer:Kick("BlackListed - Restless.dreams DOESNT fwu😂.")
+    game.Players.LocalPlayer:Kick("BlackListed - shein.lol DOESNT like u😂.")
 end
